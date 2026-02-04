@@ -1,0 +1,10 @@
+/Users/mayank/Desktop/Project/qrcode-service/src/main/java/com/ebp/qrcode/QrCodeServiceApplication.java
+/Users/mayank/Desktop/Project/qrcode-service/src/main/java/com/ebp/qrcode/config/RabbitMqConfig.java
+/Users/mayank/Desktop/Project/qrcode-service/src/main/java/com/ebp/qrcode/domain/entities/QrCode.java
+/Users/mayank/Desktop/Project/qrcode-service/src/main/java/com/ebp/qrcode/domain/entities/QrCodeStatusEnum.java
+/Users/mayank/Desktop/Project/qrcode-service/src/main/java/com/ebp/qrcode/domain/entities/Ticket.java
+/Users/mayank/Desktop/Project/qrcode-service/src/main/java/com/ebp/qrcode/listener/TicketEventListener.java
+/Users/mayank/Desktop/Project/qrcode-service/src/main/java/com/ebp/qrcode/listener/TicketPurchasedEvent.java
+/Users/mayank/Desktop/Project/qrcode-service/src/main/java/com/ebp/qrcode/repository/QrCodeRepository.java
+/Users/mayank/Desktop/Project/qrcode-service/src/main/java/com/ebp/qrcode/service/Impl/QrCodeServiceImpl.java
+/Users/mayank/Desktop/Project/qrcode-service/src/main/java/com/ebp/qrcode/service/QrCodeService.java
